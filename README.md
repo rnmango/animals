@@ -9,6 +9,6 @@
  (`._  `-"" ,._             (            `-(   \
  <_  `     (  <`<            \              `-._\
   <`-       (__< <           :
-   (__        (_<_<          ;
+   (__        (_<_<          ;.
     `------------------------------------------
 The goose is staring intently at you... Maybe it's time to change the channel?
