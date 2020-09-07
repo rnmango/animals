@@ -1,14 +1,4 @@
+JetBrains tutorial - Zookeeper.
 
 
-                                    _
-                                ,-"" "".
-                              ,'  ____  `.
-                            ,'  ,'    `.  `._
-   (`.         _..--.._   ,'  ,'        \    \
-  (`-.\    .-""        ""'   /          (  d _b
- (`._  `-"" ,._             (            `-(   \
- <_  `     (  <`<            \              `-._\
-  <`-       (__< <           :
-   (__        (_<_<          ;.
-    `------------------------------------------
-The goose is staring intently at you... Maybe it's time to change the channel?
+// 07092020
